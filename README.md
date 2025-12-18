@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA5cWRzaTYwajJqa4DlnYWt4dmVzY2w5cmJweHhlNWxud3dvdjQ1QxSMI4INJr5ivgy6C0K/giphy.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif" width="100%"/>
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Martin Salaberry</h1>
@@ -18,23 +18,18 @@
 ### 🚀 About Me
 
 - 💻 **Focus:** Back-end development, Python.
-- 🌱 **I’m currently learning:** Data Science (NumPy, Pandas).
+- 🌱 **I’m currently learning:** Data Science (NumPy, Pandas, Matplotlib).
 - 🛠 **Tools:** VS Code, Jupyter, SQL.
-- 💬 **Ask me about:** Python, Back-end Logic.
-- 📫 **How to reach me:** [LinkedIn](#) - [Email](#)
 
 <br/>
 
 <div align="center">
   <h3>Connect with me</h3>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/martin-salaberry/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#">
+  <a href="https://github.com/Mts283" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -42,12 +37,13 @@
 
 <div align="center">
   <h3>Languages and Tools</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" href="https://www.python.org/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" href="https://www.postgresql.org/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" href="https://code.visualstudio.com/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" href="https://jupyter.org/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" href="https://numpy.org/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" href="https://pandas.pydata.org/" target="_blank"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="matplotlib" href="https://matplotlib.org/" target="_blank"/>
 </div>
 
 <br/>
@@ -59,13 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mts283&show_icons=true&theme=tokyonight" alt="streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mts283&theme=tokyonight" alt="top-langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mts283&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
 <br/>
